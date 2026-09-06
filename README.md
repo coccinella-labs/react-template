@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/react-template/main/.github/assets/thumbnail.png" alt="react-template" width="100%">
+</p>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
